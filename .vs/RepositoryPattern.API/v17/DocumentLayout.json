@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|c:\\users\\boot camp.desktop-6jhifao\\documents\\asp.net_myfirstcrud\\repositorypattern.api\\repositorypattern.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|solutionrelative:repositorypattern.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|c:\\users\\boot camp.desktop-6jhifao\\documents\\asp.net_myfirstcrud\\repositorypattern.api\\repositorypattern.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|solutionrelative:repositorypattern.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|c:\\users\\boot camp.desktop-6jhifao\\documents\\asp.net_myfirstcrud\\repositorypattern.api\\repositorypattern.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|solutionrelative:repositorypattern.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|c:\\users\\boot camp.desktop-6jhifao\\documents\\asp.net_myfirstcrud\\repositorypattern.api\\repositorypattern.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|solutionrelative:repositorypattern.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|c:\\users\\boot camp.desktop-6jhifao\\documents\\asp.net_myfirstcrud\\repositorypattern.api\\repositorypattern.api\\domain\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|solutionrelative:repositorypattern.api\\domain\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|c:\\users\\boot camp.desktop-6jhifao\\documents\\asp.net_myfirstcrud\\repositorypattern.api\\repositorypattern.api\\domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|solutionrelative:repositorypattern.api\\domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|c:\\users\\boot camp.desktop-6jhifao\\documents\\asp.net_myfirstcrud\\repositorypattern.api\\repositorypattern.api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|solutionrelative:repositorypattern.api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|c:\\users\\boot camp.desktop-6jhifao\\documents\\asp.net_myfirstcrud\\repositorypattern.api\\repositorypattern.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|solutionrelative:repositorypattern.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|c:\\users\\boot camp.desktop-6jhifao\\documents\\asp.net_myfirstcrud\\repositorypattern.api\\repositorypattern.api\\domain\\contracts\\authorcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|solutionrelative:repositorypattern.api\\domain\\contracts\\authorcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|c:\\users\\boot camp.desktop-6jhifao\\documents\\asp.net_myfirstcrud\\repositorypattern.api\\repositorypattern.api\\domain\\contracts\\bookcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|solutionrelative:repositorypattern.api\\domain\\contracts\\bookcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|c:\\users\\boot camp.desktop-6jhifao\\documents\\asp.net_myfirstcrud\\repositorypattern.api\\repositorypattern.api\\domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|solutionrelative:repositorypattern.api\\domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|c:\\users\\boot camp.desktop-6jhifao\\documents\\asp.net_myfirstcrud\\repositorypattern.api\\repositorypattern.api\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|solutionrelative:repositorypattern.api\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|c:\\users\\boot camp.desktop-6jhifao\\documents\\asp.net_myfirstcrud\\repositorypattern.api\\repositorypattern.api\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|solutionrelative:repositorypattern.api\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|c:\\users\\boot camp.desktop-6jhifao\\documents\\asp.net_myfirstcrud\\repositorypattern.api\\repositorypattern.api\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74349DAF-018B-4766-B07F-D19481FC3A1E}|RepositoryPattern.API\\RepositoryPattern.API.csproj|solutionrelative:repositorypattern.api\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\appsettings.json",
+              "RelativeDocumentMoniker": "RepositoryPattern.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\appsettings.json",
+              "RelativeToolTip": "RepositoryPattern.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T08:14:12.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RepositoryPattern.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\appsettings.Development.json",
+              "RelativeToolTip": "RepositoryPattern.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T08:14:14.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "RepositoryPattern.API\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "RepositoryPattern.API\\Controllers\\AuthorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T07:28:19.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "RepositoryPattern.API\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Controllers\\BookController.cs",
+              "RelativeToolTip": "RepositoryPattern.API\\Controllers\\BookController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwB8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T07:06:06.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Domain\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "RepositoryPattern.API\\Domain\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Domain\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "RepositoryPattern.API\\Domain\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T06:19:56.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryPattern.API\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "RepositoryPattern.API\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:26:23.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RepositoryPattern.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RepositoryPattern.API\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:19:43.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Repositories\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryPattern.API\\Repositories\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Repositories\\IBaseRepository.cs",
+              "RelativeToolTip": "RepositoryPattern.API\\Repositories\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:12:37.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookContract.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Domain\\Contracts\\BookContract.cs",
+              "RelativeDocumentMoniker": "RepositoryPattern.API\\Domain\\Contracts\\BookContract.cs",
+              "ToolTip": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Domain\\Contracts\\BookContract.cs",
+              "RelativeToolTip": "RepositoryPattern.API\\Domain\\Contracts\\BookContract.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvxoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:05:51.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorContract.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Domain\\Contracts\\AuthorContract.cs",
+              "RelativeDocumentMoniker": "RepositoryPattern.API\\Domain\\Contracts\\AuthorContract.cs",
+              "ToolTip": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Domain\\Contracts\\AuthorContract.cs",
+              "RelativeToolTip": "RepositoryPattern.API\\Domain\\Contracts\\AuthorContract.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T02:29:11.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Domain\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "RepositoryPattern.API\\Domain\\Entities\\Author.cs",
+              "ToolTip": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Domain\\Entities\\Author.cs",
+              "RelativeToolTip": "RepositoryPattern.API\\Domain\\Entities\\Author.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T02:25:25.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "RepositoryPattern.API\\Domain\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "RepositoryPattern.API\\Domain\\Entities\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T02:21:44.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Program.cs",
+              "RelativeDocumentMoniker": "RepositoryPattern.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\Program.cs",
+              "RelativeToolTip": "RepositoryPattern.API\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T02:05:00.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\libman.json",
+              "RelativeDocumentMoniker": "RepositoryPattern.API\\libman.json",
+              "ToolTip": "C:\\Users\\Boot Camp.DESKTOP-6JHIFAO\\Documents\\ASP.NET_MyFirstCRUD\\RepositoryPattern.API\\RepositoryPattern.API\\libman.json",
+              "RelativeToolTip": "RepositoryPattern.API\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T01:22:58.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
